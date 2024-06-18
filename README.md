@@ -2,7 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com)
-[![Portifolio2](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heliojrsette/)
 
 ![Sette GitHub stats](https://github-readme-stats.vercel.app/api?username=Helio07&show_icons=true&theme=dracula&locale=pt-br)
@@ -21,7 +20,7 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helio07&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helio07&layout=compact&theme=dracula)
 </div>
 
 ## Acompanhe meu desenvolvimento ! 
